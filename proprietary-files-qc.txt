@@ -314,6 +314,10 @@ vendor/bin/ipacm-diag|b509836ca9a71526e8adf6284279d159d6444c61
 vendor/lib/hw/keystore.msm8937.so|6daa5eb3756b4cbfbf8945634cc38c941ae73ea9
 vendor/lib64/hw/keystore.msm8937.so|28a6146fac251b7770e01cb7a87e1499f999a7dd
 
+# Lights - from Stock N Beta
+lib/hw/lights.msm8937.so
+lib64/hw/lights.msm8937.so
+
 # Listen - from Wiko View 2
 vendor/lib64/hw/sound_trigger.primary.msm8937.so|31a1cf88cfebf06bdbac92076f8d1552af6f1083
 vendor/lib64/vendor.qti.voiceprint@1.0.so|4017d597d209d8676dc8f41513bbece9827d61cd
